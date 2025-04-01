@@ -33,7 +33,7 @@ Publicação em até 2 horas na mesma plataforma do vídeo, com linguagem respei
 
 > “Olá [@cliente], lamentamos profundamente o ocorrido. Essa não é a experiência que desejamos oferecer. Já estamos verificando seu caso internamente e entraremos em contato direto para resolver da melhor forma possível. Nosso compromisso é com você.”
 
-📌 *Fundamento*: a Web 2.0 exige interatividade imediata, sob pena de danos ampliados à reputação da empresa&#8203;:contentReference[oaicite:1]{index=1}.
+📌 *Fundamento*: a Web 2.0 exige interatividade imediata, sob pena de danos ampliados à reputação da empresa.
 
 ---
 
@@ -41,7 +41,7 @@ Publicação em até 2 horas na mesma plataforma do vídeo, com linguagem respei
 
 Realização de contato individual, humanizado e direto com o cliente. Objetivo: ouvir com atenção, reconhecer a falha e restabelecer confiança emocional.
 
-📌 *Fundamento*: mídias sociais exigem autenticidade e empatia — relações horizontais substituem a comunicação hierárquica da era pré-Web 2.0&#8203;:contentReference[oaicite:2]{index=2}.
+📌 *Fundamento*: mídias sociais exigem autenticidade e empatia — relações horizontais substituem a comunicação hierárquica da era pré-Web 2.0.
 
 ---
 
@@ -52,7 +52,7 @@ Propostas ao cliente:
 - Reembolso integral com **crédito-bônus de R$ 200,00** para futuras compras;
 - Pedido formal de desculpas assinado pelo gerente de atendimento.
 
-📌 *Fundamento*: empresas na era digital devem ver erros como oportunidade de fidelização, e não apenas como perdas operacionais&#8203;:contentReference[oaicite:3]{index=3}.
+📌 *Fundamento*: empresas na era digital devem ver erros como oportunidade de fidelização, e não apenas como perdas operacionais.
 
 ---
 
@@ -62,7 +62,7 @@ Propostas ao cliente:
 - Implantação de **registro fotográfico de embalagem final** (vinculado ao CRM);
 - Treinamento do SAC com foco em mediação de conflitos e Código de Defesa do Consumidor.
 
-📌 *Fundamento*: a Web 2.0 exige **transparência e rastreabilidade** nos processos organizacionais&#8203;:contentReference[oaicite:4]{index=4}.
+📌 *Fundamento*: a Web 2.0 exige **transparência e rastreabilidade** nos processos organizacionais.
 
 ---
 
@@ -71,7 +71,7 @@ Propostas ao cliente:
 - Caso o cliente aceite, divulgação de novo vídeo contando como o problema foi resolvido.
 - Alternativa: publicação institucional com o título **“Transformando falhas em aprendizados”**, compartilhando o caso (sem expor dados) e as melhorias implementadas.
 
-📌 *Fundamento*: a Web 2.0 incentiva a **construção colaborativa da imagem de marca**, com feedbacks públicos e contínuos&#8203;:contentReference[oaicite:5]{index=5}.
+📌 *Fundamento*: a Web 2.0 incentiva a **construção colaborativa da imagem de marca**, com feedbacks públicos e contínuos.
 
 ---
 
