@@ -12,9 +12,9 @@
 
 ## 🧠 Fundamentação Teórica – Web 2.0 e Mídias Sociais
 
-Segundo o capítulo **Web 2.0 e Mídia Social** do livro *Sistemas de Informação* (Gonçalves, 2017), a Web 2.0 transformou o modo como as empresas se comunicam com o público:
+Segundo o tópico **Web 2.0 e Mídia Social** do livro *Sistemas de Informação*, a Web 2.0 transformou o modo como as empresas se comunicam com o público:
 
-> “As organizações não podem mais passar despercebidas pelo mundo virtual. Mesmo quando não fazem nenhuma ação específica, correm o risco de entrarem nas redes à revelia, a partir de comentários negativos de clientes.”&#8203;:contentReference[oaicite:0]{index=0}
+> “As organizações não podem mais passar despercebidas pelo mundo virtual. Mesmo quando não fazem nenhuma ação específica, correm o risco de entrarem nas redes à revelia, a partir de comentários negativos de clientes.”
 
 Além disso, destaca-se:
 
